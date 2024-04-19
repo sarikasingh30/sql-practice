@@ -1,3 +1,28 @@
+# SQL => Structured Query Language
+
+
+
+# Difference between SQL and My SQL
+
+| Aspect          | SQL                                        | MySQL                                                 |
+|-----------------|--------------------------------------------|-------------------------------------------------------|
+| Definition      | Standard language for managing databases   | Specific relational database management system (RDBMS)|
+| Features        | Defines standard syntax and features       | Extends standard SQL with additional features         |
+| Implementation  | Language specification                     | Implementation of the SQL standard                    |
+| Licensing       | Not a product; no licensing requirements   | Open-source under various licenses (e.g., GPL)        |
+| Portability     | Queries can be ported across SQL databases | Specific MySQL features may not be compatible         |
+
+
+
+
+
+
+
+
+
+
+---
+
 # LEFT JOIN
 
 A LEFT JOIN is a type of SQL join that combines rows from two tables based on a related column between them.
